@@ -5,6 +5,8 @@ desarrollador de videojuegos
 
 mañana nos enfocaremos en su vida laboral
 
+Esta es una practica para verificar los cambios realizados y
+como se ven los cambios hechos por git y Git Hub
 
 Empezamos a practicar nosotros como usar Git
 
